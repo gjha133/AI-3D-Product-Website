@@ -6,3 +6,7 @@
  
  
  **Example prompt for AI full texture**: *Create a gradient pattern that goes from red to blue*
+ 
+ 
+ Credit: JS Mastery YT Channel
+ https://www.youtube.com/watch?v=ZqEa8fTxypQ
