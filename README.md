@@ -1,6 +1,7 @@
 # AI-3D-Product-Website
 
-## AI won't give response as the free trial got expired on 1 June 2023
+# Update:
+  - ***AI won't give response as the free trial got expired on 1 June 2023***
  
  ### Customize 3D T-shirt by adding custom color.
  ### Users can also upload logo/texture from their OS.
